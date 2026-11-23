@@ -1,0 +1,6 @@
+{
+  "name": "YǔChá · Luyện giao tiếp tiếng Trung",
+  "description": "Luyện giao tiếp tiếng Trung tự nhiên mỗi ngày cùng đối tác thoại AI thời gian thực, hỗ trợ Pinyin, gợi ý diễn đạt bản xứ và lưu lại hội thoại để ôn tập.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
